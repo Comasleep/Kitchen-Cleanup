@@ -11,10 +11,10 @@ Third-party Assets:
 - Wallpaper (background plane)
 - Free Wav's from [Snapsound](http://snapsound.com)
 
-User Controls:
-
-Blah blah blah
-
 Process:
 
 Blah blah
+
+User Controls:
+
+Blah blah blah
